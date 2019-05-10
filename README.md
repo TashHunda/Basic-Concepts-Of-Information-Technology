@@ -1,10 +1,7 @@
-# Information-Technology-Process
-This is a tutorial about the IT process, as an introduction to Information &amp; Technology.
+# Basic Concepts Of Information Technology
+This is a tutorial on the basic concepts of Information Technolgy.
 
-## The process of the information technology has 5 processes 
-+ IT operations and infrastructure.
-+ Applications.
-+ Communications.
-+ Security of information.
-+ Business process management system.
+## What is a Computer? 
++ A Computer is a device that is programmable, used for production and processing of information.It is eficient in storing and calculating results.
+![Computer](https://www.webopedia.com/TERM/C/computer.html)
 
